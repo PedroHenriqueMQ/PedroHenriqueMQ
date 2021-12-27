@@ -7,12 +7,14 @@
 ## Sobre Mim
 
 - 📚 Cursando Ciências da Computação - FAFIC, Cajazeiras
-- 🖥️ Amante da programação, seja back, seja front
+- 👨‍💻 Amante da programação, seja back, seja front
+- 🖥️ Apaixonado por Computação e suas tecnologias
 
 
 ## Áreas de Interesse
 
 - Front-end Design
 - Game Development
+- Video and Photo Editing
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueMQ&theme=nightowl&show_icons=true&count_private=true&hide=stars)
