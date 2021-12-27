@@ -15,6 +15,6 @@
 
 - Front-end Design
 - Game Development
-- Video and Photo Editing
+- Video, Audio and Photo Editing
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueMQ&theme=nightowl&show_icons=true&count_private=true&hide=stars)
