@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-- 📚 Cursando Ciências da Computação - FAFIC, Cajazeiras
+- :books: Cursando Ciências da Computação - FAFIC, Cajazeiras
 - 👨‍💻 Amante da programação, seja back, seja front
 - 🖥️ Apaixonado por Computação e suas tecnologias
 
