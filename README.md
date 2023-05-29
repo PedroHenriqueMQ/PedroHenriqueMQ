@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-- :books: Cursando Ciências da Computação - FCPB, Cajazeiras
+- :books: Cursando Ciências da Computação - FCP, Cajazeiras
 - 👨‍💻 Amante da programação, seja back, seja front
 - 🖥️ Apaixonado por Computação e suas tecnologias
 
@@ -16,5 +16,3 @@
 - Front/Back-end Development
 - Game Development
 - Video, Audio and Photo Editing/Creating
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueMQ&theme=nightowl&show_icons=true&count_private=true&hide=stars)
